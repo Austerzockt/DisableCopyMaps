@@ -1,0 +1,7 @@
+name: DisableCopyMaps
+version: ${project.version}
+main: io.github.austerzockt.disablecopymaps.DisableCopyMaps
+api-version: 1.16
+prefix: DCM
+authors: [ Austerzockt ]
+description: Disables the Copying of Maps (useful for Map-Art)
